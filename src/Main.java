@@ -14,6 +14,6 @@ public class Main {
         int sum = countSum(a, b);
     }
     private static int countSum(int a, int b){
-        return a * b;
+        return a + b;
     }
 }
